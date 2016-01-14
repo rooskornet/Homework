@@ -1,4 +1,4 @@
-package com.ivik.students.exercise2;
+package com.ivik.students.exercise2and3;
 
 /**
  * Created by jennie on 9-1-2016.
