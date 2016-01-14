@@ -11,7 +11,7 @@ public class SortUtils {
 
      for(int i = 0; i < students.length-1; i++){
 
-         for(int a = 1; a < students.length; i++){
+         for(int a = i+ 1; a < students.length; a++){
 
              if (students[i].getScore() > students[a].getScore()) {
                  Student temporary = students[a];
